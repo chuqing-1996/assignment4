@@ -31,8 +31,7 @@
 
     <div class="container">
         <h1>Welcome to HTML/CSS/JS play</h1>
-        <h2>Simple arithmetic operations</h2>
-
+       
         <input type="text" class="num" id="num1" value="" />       <input type="text" class="num" id="num2" value="" /> <br /><br />
 
         <input type="button" class="a bb" id="a" value="+" />
